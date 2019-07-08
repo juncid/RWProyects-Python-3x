@@ -1,0 +1,2 @@
+Mickey Mouse|mickey.mouse@disney.com|Y
+Donald Duck|donald.duck@disney.com|Y
